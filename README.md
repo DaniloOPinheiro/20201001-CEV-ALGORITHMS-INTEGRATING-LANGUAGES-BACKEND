@@ -30,6 +30,9 @@
 [PYTHON]()
     NOTE: Run the project in PYTHON ($ python3) [if it doesn't work, access documentation] (http://www.python-ds.com/python-hello-world).
 
+[TYPESCRIPT]()
+     OBD: Execute project in TYPESCRIPT, much like JAVASCRIPT.
+
 # IMPLEMENTANDO OS EXERCÍCIOS DE ALGORITMOS DA PLATAFORMA [CURSOS EM VÍDEOS](https://www.cursoemvideo.com/course/curso-de-algoritmo/) EM LINGUAGENS BACKEND
 [PDF dos Exercícios](https://www.cursoemvideo.com/wp-content/uploads/2019/08/exercicios-algoritmos.pdf)
 
@@ -61,3 +64,6 @@
 
 [PYTHON]()
     OBS : Executar projeto em PYTHON ( $ python3 ) [caso não funcione acesse documentação](http://www.python-ds.com/python-hello-world).
+
+[TYPESCRIPT]()
+    OBD : Executar projeto em TYPESCRIPT, muito parecido com do JAVASCRIPT.
