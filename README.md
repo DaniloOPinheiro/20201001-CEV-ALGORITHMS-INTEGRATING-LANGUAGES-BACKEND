@@ -31,7 +31,7 @@
     NOTE: Run the project in PYTHON ($ python3) [if it doesn't work, access documentation] (http://www.python-ds.com/python-hello-world).
 
 [TYPESCRIPT]()
-     OBS: Execute project in TYPESCRIPT, much like JAVASCRIPT.
+    NOTE: Execute project in TYPESCRIPT, very similar to JAVASCRIPT.
 
 # IMPLEMENTANDO OS EXERCÍCIOS DE ALGORITMOS DA PLATAFORMA [CURSOS EM VÍDEOS](https://www.cursoemvideo.com/course/curso-de-algoritmo/) EM LINGUAGENS BACKEND
 [PDF dos Exercícios](https://www.cursoemvideo.com/wp-content/uploads/2019/08/exercicios-algoritmos.pdf)
