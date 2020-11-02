@@ -15,6 +15,9 @@
 [DART]()
     NOTE: Execute project in Dart ($ Dart helloword.dart).
 
+[Elixir]()
+    NOTE: Execute project in Elixir ($ elixir helloword.exs).
+
 [GO]()
     NOTE: Run the project on GO ($ go run helloword.go).
 
@@ -49,6 +52,9 @@
 
 [DART]()
     OBS : Executar projeto em Dart ( $ Dart helloword.dart ).
+
+[Elixir]()
+    OBS : Executar projeto em Elixir ($ elixir helloword.exs).
 
 [GO]()
     OBS : Executar projeto em GO ( $ go run helloword.go ).
